@@ -12,6 +12,17 @@ print('hello') // hello
 a,b,c=1,2,3
 ```
 
+## datatype function
+
+```
+int() - any to int
+str() - ant to string
+float() - int to float
+bin() - int to binary
+chr() - ascii to char
+ord() - char to ascii
+```
+
 ## identifier
 ```
 name start with char or underschore
