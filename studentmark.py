@@ -8,7 +8,7 @@ db=[]
 
 #clear function
 def cls():
-	os.system('cls')
+	os.system('clear')
 
 #data collect function
 def datacollect():
